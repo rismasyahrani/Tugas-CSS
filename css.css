@@ -1,0 +1,29 @@
+body{
+	background-image: url(doare.jpg);
+	margin: auto;
+}
+h1 {
+	color: #008060; 
+	text-align: center;
+	font-family: rubik; 
+}
+h2 {
+	background-color: rgb(77,152,113);
+	color: white;
+	padding: 10px 
+	font-family : consolas;
+	text-align: center;
+}
+h3 {
+	background-color: white;
+	color: navy; 
+	font-family: consolas; 
+}
+ul {
+	border: 5px solid rgb (77,152,113);
+	margin: 50px; 
+	background-color: navy; 
+	color: white;
+	font-family : cambria;
+	text-align: left;
+}
